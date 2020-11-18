@@ -1,0 +1,24 @@
+{
+  "name": "@widernet/theme",
+  "version": "1.0.0",
+  "description": "Tailwind theme for the Christian Connection brand",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "build": "tailwind-config-viewer export ./docs",
+    "tailwind-config-viewer": "tailwind-config-viewer -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/widernet/theme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/widernet/theme/issues"
+  },
+  "homepage": "https://github.com/widernet/theme#readme",
+  "dependencies": {
+    "tailwind-config-viewer": "^1.2.4"
+  }
+}

@@ -1,2 +1,1 @@
-# colors
-Color palette for the Christian Connection brand
+Tailwind theme for the Christian Connection brand
